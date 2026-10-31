@@ -1,21 +1,21 @@
-# 👨‍💻 Kevin Manuel | Senior Software Engineer
+# 👋 Hey there! I'm Kevin Manuel
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+Software+Engineer;React+Native+%7C+React+%7C+Next.js;TypeScript+%7C+Node.js+%7C+.NET;Building+Scalable+Digital+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;React+Native+%7C+React+%7C+Next.js;TypeScript+%7C+Node.js+%7C+.NET;Building+Scalable+Digital+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinmanuelm01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Kevinmanuelm01">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨🏻‍💻 About Me
 
 I'm a **Senior Software Engineer** with 6+ years of experience designing and building scalable, high-performance web and mobile applications.
 
@@ -25,102 +25,152 @@ I also have experience with backend development using **Node.js, NestJS, and .NE
 
 Throughout my career, I've worked on complex applications in demanding business environments, contributing to architectural decisions, technical improvements, and the delivery of reliable software solutions.
 
-I enjoy solving challenging engineering problems, exploring modern technologies, and transforming business requirements into scalable digital products.
+- 🔭 Working on modern web and mobile applications.
+- 🌱 Exploring scalable architectures, cloud technologies, and software engineering best practices.
+- 💡 Interested in system design, application performance, and developer experience.
+- ⚙️ Passionate about clean architecture, reusable components, and maintainable code.
+- ⚾ Building products around sports technology and baseball analytics.
+- 🤝 Open to connecting with engineers and international technology teams.
 
 **My engineering philosophy:** Build software that is scalable, maintainable, performant, and designed to deliver real value.
 
 ---
 
-## 🧩 Core Expertise
+## 🧠 Core Expertise
 
-- **Frontend Architecture:** Scalable application architecture, reusable components, design systems, and clean code.
-- **Mobile Development:** Cross-platform applications with React Native and Expo.
-- **Web Development:** Modern web applications using React, Next.js, and TypeScript.
-- **State Management:** Redux, Zustand, and TanStack Query.
-- **Backend Development:** REST APIs, Node.js, NestJS, Express, and .NET.
-- **Database Design:** Relational databases, data modeling, and query optimization.
-- **Performance & Reliability:** Application optimization, error handling, and maintainability.
-- **DevOps & Delivery:** CI/CD pipelines, Azure DevOps, Git workflows, and OTA updates.
+| Area | Expertise |
+|---|---|
+| Mobile Development | React Native, Expo |
+| Web Development | React, Next.js, TypeScript |
+| Frontend Architecture | Clean Architecture, Design Systems, Reusable Components |
+| State Management | Redux, Zustand, TanStack Query |
+| Backend Development | Node.js, NestJS, Express, .NET |
+| API Integration | REST APIs, JWT, API Gateways |
+| Databases | PostgreSQL, SQL Server, Oracle, MongoDB |
+| Cloud & DevOps | Azure, AWS, Firebase, CI/CD |
+| Quality Engineering | Jest, ESLint, SonarQube |
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend & Mobile
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,ts,js,html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,vite" alt="Frontend technologies" />
 </p>
 
-### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet" />
-</p>
-
-### State Management & Data Fetching
-<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
-### Databases
+### Backend & APIs
+
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet" alt="Backend technologies" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" alt="Database technologies" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### Cloud & DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,aws,firebase,docker,kubernetes,githubactions,gitlab" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,firebase,docker,kubernetes,githubactions,gitlab" alt="Cloud and DevOps technologies" />
 </p>
 
 ### Tools & Quality
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma,jest,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,jest,webpack" alt="Development tools" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### ⚾ Scoreo Plays
+
 A baseball-focused platform designed to manage games, record plays, analyze player performance, and provide advanced statistical insights.
 
-**Focus areas:**
+**Key Features**
 - Game scoring and play-by-play tracking.
 - Batting, pitching, and fielding statistics.
 - Player and team comparisons.
 - Advanced baseball metrics and analytics.
+- Season and tournament management.
 
-**Technologies:** React Native · TypeScript · Expo
+**Technologies:** React Native · Expo · TypeScript
+
+<!-- Add project screenshots here -->
+<!-- <p align="center"><img src="./assets/scoreo-plays-preview.png" width="85%" alt="Scoreo Plays Preview" /></p> -->
 
 ### 📓 Sport Notebook
+
 A sports management platform focused on baseball and softball, connecting teams, players, seasons, tournaments, and game management.
 
-**Focus areas:**
+**Key Features**
 - Team and player management.
 - Seasons and tournament organization.
 - Game scheduling and score tracking.
 - Player performance and team statistics.
+- Baseball and softball management workflows.
 
 **Technologies:** React Native · Expo · TypeScript
+
+<!-- Add project screenshots here -->
+<!-- <p align="center"><img src="./assets/sport-notebook-preview.png" width="85%" alt="Sport Notebook Preview" /></p> -->
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kevinmanuelm01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Kevinmanuelm01&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/Kevinmanuelm01">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=Kevinmanuelm01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Kevinmanuelm01">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kevinmanuelm01&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevinmanuelm01&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Kevinmanuelm01&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🦉 Coding Activity & Productivity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📅 Year Progress
+
+<p align="center">
+  <i>Making every commit count, one day at a time.</i>
 </p>
 
 ---
@@ -131,10 +181,10 @@ I'm always interested in connecting with engineers, developers, and teams workin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kevinmanuelm01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevin_Manuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin_Manuel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Kevinmanuelm01">
-    <img src="https://img.shields.io/badge/GitHub-Kevinmanuelm01-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Kevinmanuelm01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -143,5 +193,5 @@ I'm always interested in connecting with engineers, developers, and teams workin
 </p>
 
 <p align="center">
-  <i>Building better software, one commit at a time.</i>
+  <i>Building better software, one commit at a time. 🚀</i>
 </p>
