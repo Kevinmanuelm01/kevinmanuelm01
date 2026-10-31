@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Kevin Manuel
+# 👋 Hey there! I'm Kevin Manuel Vicioso
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer;React+Native+%7C+React+%7C+Next.js;TypeScript+%7C+Node.js+%7C+.NET;Building+Scalable+Digital+Products" alt="Typing SVG" />
@@ -25,7 +25,7 @@ I also have experience with backend development using **Node.js, NestJS, and .NE
 
 Throughout my career, I've worked on complex applications in demanding business environments, contributing to architectural decisions, technical improvements, and the delivery of reliable software solutions.
 
-- 🔭 Working on modern web and mobile applications.
+- 🔭 Building modern web and mobile applications.
 - 🌱 Exploring scalable architectures, cloud technologies, and software engineering best practices.
 - 💡 Interested in system design, application performance, and developer experience.
 - ⚙️ Passionate about clean architecture, reusable components, and maintainable code.
@@ -122,7 +122,7 @@ A baseball-focused platform designed to manage games, record plays, analyze play
 
 **Technologies:** React Native · Expo · TypeScript
 
-<!-- Add project screenshots here -->
+<!-- Add your project screenshots here -->
 <!-- <p align="center"><img src="./assets/scoreo-plays-preview.png" width="85%" alt="Scoreo Plays Preview" /></p> -->
 
 ### 📓 Sport Notebook
@@ -138,7 +138,7 @@ A sports management platform focused on baseball and softball, connecting teams,
 
 **Technologies:** React Native · Expo · TypeScript
 
-<!-- Add project screenshots here -->
+<!-- Add your project screenshots here -->
 <!-- <p align="center"><img src="./assets/sport-notebook-preview.png" width="85%" alt="Sport Notebook Preview" /></p> -->
 
 ---
@@ -167,11 +167,10 @@ A sports management platform focused on baseball and softball, connecting teams,
 
 ---
 
-## 📅 Year Progress
+## ⏳ Year Progress
 
-<p align="center">
-  <i>Making every commit count, one day at a time.</i>
-</p>
+<!--START_YEAR_PROGRESS-->
+<!--END_YEAR_PROGRESS-->
 
 ---
 
