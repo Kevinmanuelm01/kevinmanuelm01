@@ -1,0 +1,81 @@
+
+name: Update Year Progress
+
+on:
+  schedule:
+    - cron: "15 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-year-progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Year Progress
+        run: |
+          python - <<'PY'
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+          from pathlib import Path
+
+          now = datetime.now(ZoneInfo("America/Santo_Domingo"))
+          year = now.year
+
+          start = datetime(year, 1, 1, tzinfo=now.tzinfo)
+          end = datetime(year + 1, 1, 1, tzinfo=now.tzinfo)
+
+          progress = (now - start).total_seconds() / (
+              end - start
+          ).total_seconds() * 100
+
+          total_blocks = 30
+          filled = round(progress / 100 * total_blocks)
+          bar = "█" * filled + "░" * (total_blocks - filled)
+
+          content = (
+              f"### {year} Progress\n\n"
+              f"**{progress:.2f}%** completed\n\n"
+              f"`{bar}`\n\n"
+              f"<sub>📅 {now.strftime('%B %d, %Y')} · "
+              "Automatically updated daily · "
+              "America/Santo_Domingo</sub>"
+          )
+
+          path = Path("README.md")
+          readme = path.read_text(encoding="utf-8")
+
+          start_marker = "<!--START_YEAR_PROGRESS-->"
+          end_marker = "<!--END_YEAR_PROGRESS-->"
+
+          if start_marker not in readme or end_marker not in readme:
+              raise SystemExit("Year Progress markers are missing")
+
+          before, remainder = readme.split(start_marker, 1)
+          _, after = remainder.split(end_marker, 1)
+
+          updated = (
+              before + start_marker + "\n\n"
+              + content + "\n\n"
+              + end_marker + after
+          )
+
+          path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update year progress"
+            git push
+          fi
