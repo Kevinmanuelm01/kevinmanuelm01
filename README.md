@@ -185,6 +185,36 @@ A sports management platform focused on baseball and softball, connecting teams,
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 122.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 15 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E6EDF3">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">669 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="55" height="8" rx="4" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">15.15%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E6EDF3">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">1295 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="30" width="106" height="8" rx="4" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">29.33%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E6EDF3">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">1422 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="54" width="116" height="8" rx="4" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">32.21%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E6EDF3">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">1029 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="78" width="84" height="8" rx="4" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">23.31%</text></svg>
+📅 **I'm Most Productive on Thursday** 
+
+<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E6EDF3">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">574 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="47" height="8" rx="4" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">13.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E6EDF3">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">466 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="30" width="38" height="8" rx="4" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">10.55%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E6EDF3">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">367 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="54" width="30" height="8" rx="4" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">8.31%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E6EDF3">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">1209 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="78" width="99" height="8" rx="4" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">27.38%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#E6EDF3">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8B949E">591 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="102" width="48" height="8" rx="4" fill="#58A6FF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8B949E">13.39%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#E6EDF3">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8B949E">422 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="126" width="34" height="8" rx="4" fill="#58A6FF"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8B949E">9.56%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#E6EDF3">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8B949E">786 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="150" width="64" height="8" rx="4" fill="#58A6FF"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8B949E">17.80%</text></svg>
+
+
+📊 **This Week I Spent My Time On** 
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+
+
+ Last Updated on 01/11/2026 00:15:00 UTC
 <!--END_SECTION:waka-->
 
 ---
