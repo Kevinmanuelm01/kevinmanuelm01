@@ -164,15 +164,15 @@ A sports management platform focused on baseball and softball, connecting teams,
 
 ### 🕒 Activity by Time of Day
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/metrics/activity-by-time.svg" width="100%" alt="Commit activity by time of day" />
-</p>
+</p> -->
 
 ### 📅 Most Productive Days
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/metrics/productive-days.svg" width="100%" alt="Weekly commit activity" />
-</p>
+</p> -->
 
 ### 💻 WakaTime Coding Statistics
 
@@ -203,8 +203,8 @@ A sports management platform focused on baseball and softball, connecting teams,
 
 ```text
 🌞 Morning                669 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-🌆 Daytime                1295 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-🌃 Evening                1424 commits        ████████░░░░░░░░░░░░░░░░░   32.24 % 
+🌆 Daytime                1295 commits        ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌃 Evening                1423 commits        ████████░░░░░░░░░░░░░░░░░   32.22 % 
 🌙 Night                  1029 commits        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -213,10 +213,10 @@ A sports management platform focused on baseball and softball, connecting teams,
 Monday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 Tuesday                  466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 Wednesday                367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Thursday                 1209 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Thursday                 1209 commits        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
 Friday                   591 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Saturday                 424 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Sunday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Saturday                 423 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Sunday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
 ```
 
 
@@ -228,16 +228,16 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/11/2026 00:28:15 UTC
+ Last Updated on 01/11/2026 00:22:18 UTC
 <!--END_SECTION:waka-->
 
 ---
 
 ## ⏳ Year Progress
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/metrics/year-progress.svg" width="100%" alt="Year progress" />
-</p>
+</p> -->
 
 <!--START_YEAR_PROGRESS-->
 <!--END_YEAR_PROGRESS-->
