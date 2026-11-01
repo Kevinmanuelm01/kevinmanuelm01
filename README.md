@@ -61,11 +61,11 @@ Throughout my career, I've worked on complex applications in demanding business 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
 </p>
 
 ### Backend & APIs
@@ -81,9 +81,9 @@ Throughout my career, I've worked on complex applications in demanding business 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ### Cloud & DevOps
@@ -99,10 +99,10 @@ Throughout my career, I've worked on complex applications in demanding business 
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
 
 ---
@@ -162,42 +162,38 @@ A sports management platform focused on baseball and softball, connecting teams,
 
 ## 🦉 Coding Activity & Productivity
 
+### 🕒 Activity by Time of Day
+
+<p align="center">
+  <img src="./assets/metrics/activity-by-time.svg" width="100%" alt="Commit activity by time of day" />
+</p>
+
+### 📅 Most Productive Days
+
+<p align="center">
+  <img src="./assets/metrics/productive-days.svg" width="100%" alt="Weekly commit activity" />
+</p>
+
+### 💻 WakaTime Coding Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark&hide_border=true&layout=compact" alt="WakaTime Coding Statistics" />
+</p>
+
+<p align="center">
+  <i>Programming time and language statistics are provided by WakaTime.</i>
+</p>
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 122.8 kB Used in GitHub's Storage 
- > 
-> 🏆 14 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-<svg width="720" viewBox="0 0 720 116" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E6EDF3">🌞 Morning</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">669 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="55" height="8" rx="4" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">15.16%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E6EDF3">🌆 Daytime</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">1295 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="30" width="106" height="8" rx="4" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">29.34%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E6EDF3">🌃 Evening</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">1421 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="54" width="116" height="8" rx="4" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">32.19%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E6EDF3">🌙 Night</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">1029 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="78" width="84" height="8" rx="4" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">23.31%</text></svg>
-📅 **I'm Most Productive on Thursday** 
-
-<svg width="720" viewBox="0 0 720 188" xmlns="http://www.w3.org/2000/svg"><text x="0" y="16" font-family="monospace" font-size="13" fill="#E6EDF3">Monday</text><text x="170" y="16" font-family="monospace" font-size="13" fill="#8B949E">574 commits</text><rect x="280" y="6" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="6" width="47" height="8" rx="4" fill="#58A6FF"/><text x="648" y="16" font-family="monospace" font-size="12" fill="#8B949E">13.00%</text><text x="0" y="40" font-family="monospace" font-size="13" fill="#E6EDF3">Tuesday</text><text x="170" y="40" font-family="monospace" font-size="13" fill="#8B949E">466 commits</text><rect x="280" y="30" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="30" width="38" height="8" rx="4" fill="#58A6FF"/><text x="648" y="40" font-family="monospace" font-size="12" fill="#8B949E">10.56%</text><text x="0" y="64" font-family="monospace" font-size="13" fill="#E6EDF3">Wednesday</text><text x="170" y="64" font-family="monospace" font-size="13" fill="#8B949E">367 commits</text><rect x="280" y="54" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="54" width="30" height="8" rx="4" fill="#58A6FF"/><text x="648" y="64" font-family="monospace" font-size="12" fill="#8B949E">8.31%</text><text x="0" y="88" font-family="monospace" font-size="13" fill="#E6EDF3">Thursday</text><text x="170" y="88" font-family="monospace" font-size="13" fill="#8B949E">1209 commits</text><rect x="280" y="78" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="78" width="99" height="8" rx="4" fill="#58A6FF"/><text x="648" y="88" font-family="monospace" font-size="12" fill="#8B949E">27.39%</text><text x="0" y="112" font-family="monospace" font-size="13" fill="#E6EDF3">Friday</text><text x="170" y="112" font-family="monospace" font-size="13" fill="#8B949E">591 commits</text><rect x="280" y="102" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="102" width="48" height="8" rx="4" fill="#58A6FF"/><text x="648" y="112" font-family="monospace" font-size="12" fill="#8B949E">13.39%</text><text x="0" y="136" font-family="monospace" font-size="13" fill="#E6EDF3">Saturday</text><text x="170" y="136" font-family="monospace" font-size="13" fill="#8B949E">421 commits</text><rect x="280" y="126" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="126" width="34" height="8" rx="4" fill="#58A6FF"/><text x="648" y="136" font-family="monospace" font-size="12" fill="#8B949E">9.54%</text><text x="0" y="160" font-family="monospace" font-size="13" fill="#E6EDF3">Sunday</text><text x="170" y="160" font-family="monospace" font-size="13" fill="#8B949E">786 commits</text><rect x="280" y="150" width="360" height="8" rx="4" fill="#21262D"/><rect x="280" y="150" width="64" height="8" rx="4" fill="#58A6FF"/><text x="648" y="160" font-family="monospace" font-size="12" fill="#8B949E">17.81%</text></svg>
-
-
-📊 **This Week I Spent My Time On** 
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-
-
- Last Updated on 01/11/2026 00:02:42 UTC
 <!--END_SECTION:waka-->
 
 ---
 
 ## ⏳ Year Progress
+
+<p align="center">
+  <img src="./assets/metrics/year-progress.svg" width="100%" alt="Year progress" />
+</p>
 
 <!--START_YEAR_PROGRESS-->
 <!--END_YEAR_PROGRESS-->
