@@ -185,8 +185,6 @@ A sports management platform focused on baseball and softball, connecting teams,
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 122.8 kB Used in GitHub's Storage 
@@ -203,20 +201,20 @@ A sports management platform focused on baseball and softball, connecting teams,
 
 ```text
 🌞 Morning                669 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-🌆 Daytime                1295 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-🌃 Evening                1426 commits        ████████░░░░░░░░░░░░░░░░░   32.27 % 
-🌙 Night                  1029 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+🌆 Daytime                1295 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+🌃 Evening                1427 commits        ████████░░░░░░░░░░░░░░░░░   32.29 % 
+🌙 Night                  1029 commits        ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   574 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Tuesday                  466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Wednesday                367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Thursday                 1209 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Tuesday                  466 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Wednesday                367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Thursday                 1209 commits        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
 Friday                   591 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Saturday                 426 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Sunday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Saturday                 427 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Sunday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 ```
 
 
@@ -224,11 +222,15 @@ Sunday                   786 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.13 % 
+JavaScript               3 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+HTML                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Groovy                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 ```
 
 
- Last Updated on 01/11/2026 00:32:39 UTC
+ Last Updated on 01/11/2026 11:00:39 UTC
 <!--END_SECTION:waka-->
 
 ---
